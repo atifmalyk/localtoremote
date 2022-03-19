@@ -2,4 +2,8 @@ connecting local repository to remote repository
 
 changes in file
 
+ HEAD
 changes for reset file 1
+
+changes for fast forwarding
+dev
